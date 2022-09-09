@@ -1,0 +1,23 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/frontispiece.jpg" filesize="219456" filedate="2022-09-04 21:16:09" width="727px" height="1440px"/>
+<image path="images/new-cover.jpg" filesize="180737" filedate="2022-09-04 21:16:09" width="960px" height="1440px"/>
+<image path="images/ornament.png" filesize="537" filedate="2022-09-04 21:16:09" width="316px" height="19px"/>
+<image path="images/p019.jpg" filesize="237444" filedate="2022-09-04 21:16:09" width="641px" height="1440px"/>
+<image path="images/p041.png" filesize="101729" filedate="2022-09-04 21:16:09" width="1094px" height="1146px"/>
+<image path="images/p066.png" filesize="39692" filedate="2022-09-04 21:16:09" width="518px" height="1390px"/>
+<image path="images/p075-1.jpg" filesize="205331" filedate="2022-09-04 21:16:09" width="1073px" height="830px"/>
+<image path="images/p075-2.png" filesize="31502" filedate="2022-09-04 21:16:09" width="1125px" height="273px"/>
+<image path="images/p080.jpg" filesize="245624" filedate="2022-09-04 21:16:09" width="700px" height="1440px"/>
+<image path="images/p101.jpg" filesize="293953" filedate="2022-09-04 21:16:09" width="787px" height="1440px"/>
+<image path="images/p104.png" filesize="79893" filedate="2022-09-04 21:16:09" width="649px" height="1401px"/>
+<image path="images/p135.png" filesize="8265" filedate="2022-09-04 21:16:09" width="417px" height="169px"/>
+<image path="images/p157.png" filesize="58107" filedate="2022-09-04 21:16:09" width="727px" height="687px"/>
+<image path="images/p158.jpg" filesize="317139" filedate="2022-09-04 21:16:09" width="1322px" height="1433px"/>
+<image path="images/p201.png" filesize="22351" filedate="2022-09-04 21:16:09" width="372px" height="482px"/>
+<image path="images/p220.jpg" filesize="354378" filedate="2022-09-04 21:16:09" width="1148px" height="1440px"/>
+<image path="images/p283.png" filesize="12684" filedate="2022-09-04 21:16:09" width="271px" height="406px"/>
+<image path="images/qr68913.png" filesize="329" filedate="2022-09-06 19:28:29" width="296px" height="296px"/>
+<image path="images/rbrace3.png" filesize="265" filedate="2022-09-04 21:16:09" width="23px" height="120px"/>
+<image path="images/rbrace6.png" filesize="269" filedate="2022-09-04 21:16:09" width="23px" height="240px"/>
+<image path="images/titlepage.png" filesize="14217" filedate="2022-09-04 21:16:09" width="811px" height="1440px"/>
+</images>
